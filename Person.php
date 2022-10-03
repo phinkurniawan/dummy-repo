@@ -11,8 +11,15 @@ class Person{
     public function getName(){
         return $this->name;
     }
+
     public function setName($name){
         $this->name = $name;
         return ;
     }
+
+    public function getAge(){
+        return $this->age;
+    }
+
+
 }
