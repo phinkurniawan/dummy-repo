@@ -24,6 +24,10 @@ class Hewan{
         return $this->name;
     }
 
+    public function makan (){
+        echo "saya mau makan";
+    }
+
     /**
      * @param mixed $name
      */
@@ -64,7 +68,5 @@ class Hewan{
     {
         $this->gender = $gender;
     }
-
-
 
 }
