@@ -6,6 +6,8 @@ class Hewan{
     private $typee;
 
     private $type;
+    private $jenis;
+    private $asal;
 
     private $gender;
 
