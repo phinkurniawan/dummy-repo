@@ -2,6 +2,7 @@
 class Hewan{
     private $name;
     private $age;
+    private $typee;
     private $gender;
 
     /**
