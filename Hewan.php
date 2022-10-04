@@ -8,7 +8,6 @@ class Hewan{
     private $type;
 
     private $gender;
-    private $atribut4;
 
     /**
      * @param $name
