@@ -11,4 +11,8 @@ class Hewan{
         return $this->name;
     }
 
+    public function makan (){
+        echo "saya mau makan";
+    }
+
 }
