@@ -3,13 +3,15 @@ class Hewan{
     private $name;
     private $age;
 
+
     private $typee;
 
     private $type;
     private $jenis;
     private $asal;
-
     private $gender;
+    private $atribut4;
+    private $atribut5;
 
     /**
      * @param $name
